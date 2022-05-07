@@ -33,6 +33,10 @@ This method can be split into two steps: 1. getting coarse segmentation via U-Ne
 
 3. patch repair (training and prediction)
 
+# Acknowledgement
+
+Thanks for completing this project with Dr. Yu's help.
+
    ```
    cd PatchSeg
    python train.py --dataRoot ${your data path}
