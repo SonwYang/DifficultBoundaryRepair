@@ -33,9 +33,6 @@ This method can be split into two steps: 1. getting coarse segmentation via U-Ne
 
 3. patch repair (training and prediction)
 
-# Acknowledgement
-
-Thanks for completing this project with Dr. Yu's help.
 
    ```
    cd PatchSeg
@@ -46,3 +43,7 @@ Thanks for completing this project with Dr. Yu's help.
 # Final result
 
 ![image](3.png)
+
+# Acknowledgement
+
+Thanks for completing this project with Dr. Yu's help.
