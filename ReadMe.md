@@ -27,7 +27,7 @@ This method can be split into two steps: 1. getting coarse segmentation via U-Ne
 2. prediction(coarse segmentation)
 
    ```
-   cd fishpondTrain
+   cd fishpondPredict
    python predict.py --data_path ${the path of image} --seg_model_path ${coarse segmentation model}
    ```
 
