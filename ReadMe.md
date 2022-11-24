@@ -1,6 +1,6 @@
 # Introduction
 
-This repository is the official implementation of  the difficult boundary repair method. The main work flow is as follows:
+This repository is the official implementation of Combining UNet++ and Marker-controlled Watershed Segmentation for Coastal Aquaculture Extraction Using GF-3 Fully Polarimetric SAR Imagery. The main work flow is as follows:
 
 ![image](1.png)
 
