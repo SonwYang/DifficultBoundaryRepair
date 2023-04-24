@@ -1,6 +1,6 @@
 # Introduction
 
-This repository is the official implementation of Combining UNet++ and Marker-controlled Watershed Segmentation for Coastal Aquaculture Extraction Using GF-3 Fully Polarimetric SAR Imagery. The main work flow is as follows:
+This repository is the official implementation of [Coastal Aquaculture Extraction Using GF-3 Fully Polarimetric SAR Imagery: A Framework Integrating UNet++ with Marker-Controlled Watershed Segmentation](https://www.mdpi.com/2072-4292/15/9/2246). The main work flow is as follows:
 
 ![image](1.png)
 
@@ -47,3 +47,4 @@ This method can be split into two steps: 1. getting coarse segmentation via U-Ne
 # Acknowledgement
 
 Thanks for completing this repo with Dr. Yu's kind help.
+
